@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/FOP96_PACMAN.dir/main.cpp.o  -o FOP96_PACMAN 
